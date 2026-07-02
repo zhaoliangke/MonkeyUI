@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+*.egg
+
+# Frontend
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.local
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+db.sqlite3
+
+# Build
+*.tar.gz
